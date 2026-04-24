@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.tit{
+        font-family: "Caveat", cursive;
+        font-optical-sizing: auto;
+        font-weight: 900;
+        font-style: normal;
+      
+}
+
+.sub{
+        font-family: "Sekuya", system-ui;
+        font-weight: 200;
+        font-style: normal;
+}
